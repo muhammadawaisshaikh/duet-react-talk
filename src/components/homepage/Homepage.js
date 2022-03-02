@@ -4,11 +4,11 @@ import './homepage.css';
 function Homepage() {
 
     // state for homepage component
-    const [heading, SetHeading] = useState('Homepage');
+    const [heading, SetHeading] = useState('');
 
     // Component Mounting & Updating thing handled inside this useEffect
     useEffect(() => {
-        SetHeading('Homepage Heading')
+        SetHeading('Homepage')
     }, [])
 
     return (

@@ -3,11 +3,11 @@ import React, { useState, useEffect } from 'react';
 function Login() {
 
     // state for login component
-    const [heading, SetHeading] = useState('Login');
+    const [heading, SetHeading] = useState('');
 
     // Component Mounting & Updating thing handled inside this useEffect
     useEffect(() => {
-        SetHeading('Login Heading')
+        SetHeading('Login')
     }, [])
 
     return (

@@ -4,11 +4,11 @@ import './about.css';
 function About() {
 
     // state for about component
-    const [heading, SetHeading] = useState('About');
+    const [heading, SetHeading] = useState('');
 
     // Component Mounting & Updating thing handled inside this useEffect
     useEffect(() => {
-        SetHeading('About Heading')
+        SetHeading('About')
     }, [])
 
     return (
