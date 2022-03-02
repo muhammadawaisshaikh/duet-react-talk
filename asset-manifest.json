@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/duet-react-talk/static/css/main.af5b8f10.css",
+    "main.js": "/duet-react-talk/static/js/main.68f6fcde.js",
+    "static/js/787.4e794968.chunk.js": "/duet-react-talk/static/js/787.4e794968.chunk.js",
+    "index.html": "/duet-react-talk/index.html",
+    "main.af5b8f10.css.map": "/duet-react-talk/static/css/main.af5b8f10.css.map",
+    "main.68f6fcde.js.map": "/duet-react-talk/static/js/main.68f6fcde.js.map",
+    "787.4e794968.chunk.js.map": "/duet-react-talk/static/js/787.4e794968.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af5b8f10.css",
+    "static/js/main.68f6fcde.js"
+  ]
+}
