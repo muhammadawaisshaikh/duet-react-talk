@@ -20,3 +20,6 @@ npx create-react-app duet-react-talk
 ```
 npm start
 ```
+
+# Adding Bootstrap - Design Library
+https://create-react-app.dev/docs/adding-bootstrap/
