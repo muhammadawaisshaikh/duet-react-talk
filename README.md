@@ -26,3 +26,6 @@ https://create-react-app.dev/docs/adding-bootstrap/
 
 # Adding Routing to React App
 https://www.digitalocean.com/community/tutorials/how-to-handle-routing-in-react-apps-with-react-router
+
+# How to deploy React App to GitHub
+https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f
