@@ -1,6 +1,9 @@
 # duet-react-talk
 Building React App 🚀 
 
+# Talk Slides
+shorturl.at/vH026
+
 # Installation
 ```
 1. Install NodeJS in Machine
