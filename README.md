@@ -29,3 +29,6 @@ https://www.digitalocean.com/community/tutorials/how-to-handle-routing-in-react-
 
 # How to deploy React App to GitHub
 https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f
+
+# Live App - Github - After Deployment
+https://muhammadawaisshaikh.github.io/duet-react-talk/
