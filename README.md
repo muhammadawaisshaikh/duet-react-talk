@@ -23,3 +23,6 @@ npm start
 
 # Adding Bootstrap - Design Library
 https://create-react-app.dev/docs/adding-bootstrap/
+
+# Adding Routing to React App
+https://www.digitalocean.com/community/tutorials/how-to-handle-routing-in-react-apps-with-react-router
